@@ -6,7 +6,7 @@ This is a repository containing code to help understand the tutorial which you w
 ### Table of content
 
 
-- [Symfony Jobeet tutorial [ part 1 ] - Why not Symfony 2.8?](Symfony Jobeet tutorial [ part 1 ] - Why not Symfony 2.8?)
+- [Symfony Jobeet tutorial [ part 1 ] - Why not Symfony 2.8?](https://tulik.github.io/tutorial/2017/01/10/symfony-3-tutorial-part-1/)
 
 - [Symfony  Jobeet tutorial [ part 1 extended ] - Configuring database and simple hello world example](https://tulik.github.io/tutorial/2017/01/10/symfony-3-tutorial-part-1-extented/)
 
