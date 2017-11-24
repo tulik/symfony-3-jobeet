@@ -1,7 +1,7 @@
 Symfony 3 Jobeet tutorial
 ===
 
-This is a repository containing code to help understand the tutorial which you will find [here](https://tulik.github.io/jobeet_tutorial/).
+This is a repository containing code to help understand the tutorial which you will find [here](https://tulik.github.io/symfony-jobeet-tutorial/).
 
 ### Table of content
 
